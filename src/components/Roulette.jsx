@@ -60,21 +60,21 @@ export const Roulette = () => {
                 <ul className="roulette">
                     <li>
                         <div className="content first">
-                            <p>Teatro oficial</p>
+                            <p className="roulette_text">Teatro oficial</p>
                         </div>
                         <div className="background"></div>
                     </li>
 
                     <li>
                         <div className="content second">
-                            <p>Cirulaxia</p>
+                            <p className="roulette_text">Cirulaxia</p>
                         </div>
                         <div className="background"></div>
                     </li>
 
                     <li>
                         <div className="content third">
-                            <p>Teatro Independiente</p>
+                            <p className="roulette_text">Teatro Independiente</p>
                         </div>
                         <div className="background"></div>
                     </li>

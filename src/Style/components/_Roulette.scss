@@ -88,19 +88,23 @@
 
             .content.first {
                 left: 15%;
-                top: 30%;
+                top: 35%;
             }
 
             .content.second {
                 right: 15%;
-                top: 30%;
+                top: 35%;
             }
 
             .content.third {
-                bottom: 15%;
+                bottom: 25%;
                 left: 30%;
             }
         }
+    }
+
+    .roulette_text {
+        font-size: 18px;
     }
 
     .roulette_spinning {
@@ -207,12 +211,12 @@
 
                 .content.second {
                     right: 30%;
-                    top: 25%;
+                    top: 35%;
                 }
 
                 .content.third {
                     bottom: 25%;
-                    left: 45%;
+                    left: 40%;
                 }
             }
         }
