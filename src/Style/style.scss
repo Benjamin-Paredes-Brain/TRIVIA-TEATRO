@@ -1,0 +1,8 @@
+@import "./components/vars";
+@import "./components/Roulette";
+@import "./components/Questions";
+
+html {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: $color-3;
+}

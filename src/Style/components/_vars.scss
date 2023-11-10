@@ -1,0 +1,21 @@
+$color-1: #2c3e50;     // Azul oscuro
+$color-2: #34495e;     // Gris azulado
+$color-3: #2e4053;     // Gris azulado más oscuro
+$color-4: #1f2a38;     // Gris oscuro
+
+$roulette-color-1: #27ae60;   // Verde esmeralda
+$roulette-color-2: #e74c3c;   // Rojo oscuro
+$roulette-color-3: #f39c12;   // Amarillo oscuro
+
+
+
+
+
+@keyframes spin {
+    0% {
+      transform: rotate(0deg);
+    }
+    100% {
+      transform: rotate(3600deg);
+    }
+  }

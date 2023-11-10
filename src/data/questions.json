@@ -1,0 +1,109 @@
+{
+  "categorias": [
+    {
+      "categoria": "Teatro en Córdoba",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuáles son los centros de formación oficial de teatro en Córdoba?",
+          "opciones": {
+            "A": "A) UNC (Universidad Nacional de Córdoba) y UPC (Universidad Provincial de Córdoba)",
+            "B": "B) FAMAF Y SIGLO21",
+            "C": "C) Ninguna es correcta",
+            "D": "D) No hay centros de formación oficial en teatro en Córdoba"
+          },
+          "respuesta_correcta": "A"
+        },
+        {
+          "pregunta": "¿Cuáles son las salas de teatro oficiales de Córdoba?",
+          "opciones": {
+            "A": "A) Teatro Comedia,El Cuenco, Casa Grote",
+            "B": "B) Teatro del Libertador General San Martin, El Cuenco, La Calle",
+            "C": "C) Teatro Real, Teatro Comedia, Teatro del Libertador general San Martin",
+            "D": "D) Sala Quinto Dero, Sebastiana Teatro, Teatro La Llave"
+          },
+          "respuesta_correcta": "C"
+        },
+        {
+          "pregunta": "¿Qué festivales y fiestas teatrales se realizan en Córdoba? ¿En qué consisten? ¿Cada cuánto se realizan? ¿A qué público están dirigidas?",
+          "opciones": {
+            "A": "A) Festival Internacional del Teatro del Mercosur: Cada dos años, presenta producciones de Argentina y países del Mercosur. Incluye talleres. Dirigido a público general.",
+            "B": "B) Encuentro Teatral de Córdoba / Festival Provincial del Teatro de Córdoba: Anual, competitivo. Favorece la participación de diversas propuestas y público variado.",
+            "C": "C) Festival Pensar con Humor: Duración de 5 días, refleja la sabiduría de los grandes y lenguajes de los jóvenes. Dirigido al público en general.",
+            "D": "D) Otras opciones"
+          },
+          "respuesta_correcta": "B"
+        }
+      ]
+    },
+    {
+      "categoria": "Teatro Independiente en Córdoba",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuáles de estas son salas de teatro independiente en Córdoba?",
+          "opciones": {
+            "A": "A) Ninguna es correcta",
+            "B": "B) Teatro Real, Teatro Comedia, Teatro del Libertador general San Martin",
+            "C": "C) Espacuo Tras51, Teatro Peña, Espacio Cirlaxia",
+            "D": "D) No hay salas de teatro independiente en Córdoba"
+          },
+          "respuesta_correcta": "C"
+        },
+        {
+          "pregunta": "¿En que año fue fundado el teatro 'La Chacarita'?",
+          "opciones": {
+            "A": "A) 1998",
+            "B": "B) 1999",
+            "C": "C) 1988",
+            "D": "D) 1986"
+          },
+          "respuesta_correcta": "A"
+        }
+      ]
+    },
+    {
+      "categoria": "Teatro Cirulaxia",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuándo fue fundado el Teatro Cirulaxia y qué funciones cumple desde 1999?",
+          "opciones": {
+            "A": "A) Fundado en 1989; espacio de investigación, formación, creación, producción, promoción y difusión de las artes escénicas desde 1999",
+            "B": "B) Fundado en 1999; espacio de investigación, formación, creación, producción, promoción y difusión de las artes escénicas desde 1989",
+            "C": "C) Fundado en 1989; espacio de investigación desde 1999",
+            "D": "D) Ninguna es correcta"
+          },
+          "respuesta_correcta": "A"
+        },
+        {
+          "pregunta": "¿Cuál es la particularidad del elenco de Cirulaxia desde su fundación?",
+          "opciones": {
+            "A": "A) Cambian de elenco cada año",
+            "B": "B) Conservan el mismo elenco desde su fundación en 1989",
+            "C": "C) Tienen un elenco rotativo",
+            "D": "D) Ninguna es correcta"
+          },
+          "respuesta_correcta": "B"
+        },
+        {
+          "pregunta": "¿Cuáles son algunas de las obras interpretadas por el Grupo Cirulaxia?",
+          "opciones": {
+            "A": "A) 'LADRAN SANCHO', 'FUERA DE TEMPORADA', 'JETTATORE'",
+            "B": "B) 'CAMPEANDO AL CID', 'UBU', 'PUROLOPE'",
+            "C": "C) 'DESASTRES', 'A PESAR DE TODO LOS ÁRBOLES SIGUEN DANDO ROPA', 'MODESTAMENTE CON BOMBOS Y PLATILLOS'",
+            "D": "D) Todas las opciones son correctas"
+          },
+          "respuesta_correcta": "D"
+        },
+        {
+          "pregunta": "¿En qué año y dónde se presentó Cirulaxia con la obra 'Campeando al Cid'?",
+          "opciones": {
+            "A": "A) 1990, en la sala 'La Cochera'",
+            "B": "B) 1994, en el Teatro Nacional Cervantes",
+            "C": "C) 2000, en la sala 'Espacio Cirulaxia'",
+            "D": "D) Ninguna es correcta"
+          },
+          "respuesta_correcta": "B"
+        }
+      ]
+    }
+  ]
+}
